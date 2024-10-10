@@ -12,7 +12,7 @@ from discord import app_commands
 from discord.ext import commands
 from pathlib import Path
 
-TOKEN = "MTI5MzI0ODgwNjc4NzM1MDY2MA.G9jjFV.lWd2LS8UO3858Nys2Ec7SuT5V5xX3jln6THcXY"
+TOKEN = ""
 
 bot = commands.Bot(command_prefix='!', intents=discord.Intents.all())
 
